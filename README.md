@@ -2,17 +2,18 @@
 
 These are all the programming e-Books I have collected. Feel free to [contribute](https://github.com/andrewpage/programming-ebooks/blob/master/CONTRIBUTING.md) by submitting a pull request.
 
-## C++
+## Table of Contents
+### C++
 
 - [Beej C++ Sockets](https://github.com/andrewpage/programming-ebooks/blob/master/C%2B%2B/Beej%20CPP%20Sockets.pdf)
 - [C++ GUI Programming with Qt](https://github.com/andrewpage/programming-ebooks/blob/master/C%2B%2B/CPP%20GUI%20Programming%20With%20QT%203.pdf)
 - [Programming Abstractions in C++](https://github.com/andrewpage/programming-ebooks/blob/master/C%2B%2B/ProgrammingAbstractions%20in%20C%2B%2B%20Roberts%20and%20Zelenski.pdf)
 
-## C
+### C
 
 - [Head First C](https://github.com/andrewpage/programming-ebooks/blob/master/C/Head%20First%20C.pdf)
 
-## Cheat Sheets
+### Cheat Sheets
 
 - [C#](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CSharp.pdf)
 - [Core Java Concurrency](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CoreJavaConcurrency.pdf)
@@ -28,32 +29,32 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 - [Scalability](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/Scalability.pdf)
 - [XML in Java](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/XMLInJava.pdf)
 
-## General
+### General
 
 - [Computer Systems, A Programmer's Perspective](https://github.com/andrewpage/programming-ebooks/blob/master/General/Computer%20Systems%20-%20A%20Programmers%20Perspective.pdf)
 - [Structure and Implementation of Computer Programs](https://github.com/andrewpage/programming-ebooks/blob/master/General/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 
-## Haskell
+### Haskell
 
 - [Real World Haskell](https://github.com/andrewpage/programming-ebooks/blob/master/Haskell/Real%20World%20Haskell.pdf)
 
-## Java
+### Java
 
 - [Effective Java (2nd Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Effective%20Java%20(2nd%20Edition).pdf)
 - [Head First Java (2nd Edition)](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Head%20First%20Java%2C%202nd%20Edition.pdf)
 - [Java Concurrency in Practice](https://github.com/andrewpage/programming-ebooks/blob/master/Java/Java%20Concurrency%20in%20Practice.pdf)
 
-## Objective-C
+### Objective-C
 
 - [The Objective-C Programming Language](https://github.com/andrewpage/programming-ebooks/blob/master/Objective-C/TheObjectiveCProgrammingLanguage.pdf)
 - [Object-Oriented Programming with Objective-C](https://github.com/andrewpage/programming-ebooks/blob/master/Objective-C/ObjectOrientedProgrammingWithObjectiveC.pdf)
 
-## Python
+### Python
 
 - [Byte of Python](https://github.com/andrewpage/programming-ebooks/blob/master/Python/ByteOfPython.pdf)
 - [Django Book](https://github.com/andrewpage/programming-ebooks/tree/master/Python/DjangoBook)
 
-## Version Control
+### Version Control
 
 - [Pro Git](https://github.com/andrewpage/programming-ebooks/blob/master/Version%20Control/ProGit.pdf)
 - [Subversion Version Control](https://github.com/andrewpage/programming-ebooks/blob/master/Version%20Control/SubversionVersionControl.pdf)
