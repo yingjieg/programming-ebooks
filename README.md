@@ -1,6 +1,6 @@
 # Programming eBooks
 
-These are all the programming e-Books I have collected. Feel free to contribute by submitting a pull request.
+These are all the programming e-Books I have collected. Feel free to [contribute](https://github.com/andrewpage/programming-ebooks/blob/master/CONTRIBUTING.md) by submitting a pull request.
 
 ## C++
 
