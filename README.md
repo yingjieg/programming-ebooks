@@ -1,6 +1,6 @@
 # Programming eBooks
 
-These are all the programming ebooks I have collected.
+These are all the programming e-Books I have collected. Feel free to contribute by submitting a pull request.
 
 ## C++
 
