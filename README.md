@@ -3,6 +3,11 @@
 These are all the programming e-Books I have collected. Feel free to [contribute](https://github.com/andrewpage/programming-ebooks/blob/master/CONTRIBUTING.md) by submitting a pull request.
 
 ## Table of Contents
+### General
+
+- [Computer Systems, A Programmer's Perspective](https://github.com/andrewpage/programming-ebooks/blob/master/General/Computer%20Systems%20-%20A%20Programmers%20Perspective.pdf)
+- [Structure and Implementation of Computer Programs](https://github.com/andrewpage/programming-ebooks/blob/master/General/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
+
 ### C++
 
 - [Beej C++ Sockets](https://github.com/andrewpage/programming-ebooks/blob/master/C%2B%2B/Beej%20CPP%20Sockets.pdf)
@@ -12,27 +17,6 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 ### C
 
 - [Head First C](https://github.com/andrewpage/programming-ebooks/blob/master/C/Head%20First%20C.pdf)
-
-### Cheat Sheets
-
-- [C#](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CSharp.pdf)
-- [Core Java Concurrency](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CoreJavaConcurrency.pdf)
-- [Core .NET](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CoreNET.pdf)
-- [Design Patterns](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/DesignPatterns.pdf)
-- [Getting Started With Git](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/GettingStartedWithGit.pdf)
-- [JDBC Best Practices](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/JDBCBestPractices.pdf)
-- [JavaScript](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/JavaScript.pdf)
-- [MongoDB](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/MongoDB.pdf)
-- [NoSQL and Data Scalability](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/NoSQLAndDataScalability.pdf)
-- [Python](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/Python.jpg)
-- [Rails](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/Rails.pdf)
-- [Scalability](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/Scalability.pdf)
-- [XML in Java](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/XMLInJava.pdf)
-
-### General
-
-- [Computer Systems, A Programmer's Perspective](https://github.com/andrewpage/programming-ebooks/blob/master/General/Computer%20Systems%20-%20A%20Programmers%20Perspective.pdf)
-- [Structure and Implementation of Computer Programs](https://github.com/andrewpage/programming-ebooks/blob/master/General/Structure%20and%20Interpretation%20of%20Computer%20Programs.pdf)
 
 ### Haskell
 
@@ -53,6 +37,22 @@ These are all the programming e-Books I have collected. Feel free to [contribute
 
 - [Byte of Python](https://github.com/andrewpage/programming-ebooks/blob/master/Python/ByteOfPython.pdf)
 - [Django Book](https://github.com/andrewpage/programming-ebooks/tree/master/Python/DjangoBook)
+
+### Cheat Sheets
+
+- [C#](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CSharp.pdf)
+- [Core Java Concurrency](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CoreJavaConcurrency.pdf)
+- [Core .NET](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/CoreNET.pdf)
+- [Design Patterns](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/DesignPatterns.pdf)
+- [Getting Started With Git](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/GettingStartedWithGit.pdf)
+- [JDBC Best Practices](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/JDBCBestPractices.pdf)
+- [JavaScript](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/JavaScript.pdf)
+- [MongoDB](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/MongoDB.pdf)
+- [NoSQL and Data Scalability](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/NoSQLAndDataScalability.pdf)
+- [Python](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/Python.jpg)
+- [Rails](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/Rails.pdf)
+- [Scalability](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/Scalability.pdf)
+- [XML in Java](https://github.com/andrewpage/programming-ebooks/blob/master/Cheat%20Sheets/XMLInJava.pdf)
 
 ### Version Control
 
